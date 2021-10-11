@@ -1,1 +1,0 @@
-# dadaya_QA
